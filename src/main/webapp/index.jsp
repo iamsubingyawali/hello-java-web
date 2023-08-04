@@ -1,7 +1,8 @@
 <html>
 <body>
-    <h2>Hello World!</h2>
-    <h1>I just changed this page to test webhook trigger from GH to Bamboo.</h1>
-    <h1>Edited again.</h1>
+    <h1>Hello World!</h1>
+    <h2>I just changed this page to test webhook trigger from GH to Bamboo.</h2>
+    <h3>Edited again.</h3>
+    <h4>Edited once again.</h4>
 </body>
 </html>
